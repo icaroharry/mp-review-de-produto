@@ -8,7 +8,7 @@ Esse projeto foca em te ensinar os fundamentos do React por meio da criação de
 
 Nós disponibilizamos um template inicial com a estrutura principal do site. Sua missão será criar a parte de reviews de acordo com o design fornecido.
 
-## Template inicial
+### Template inicial
 
 Nesse repositório você encontrará uma aplicação base feita em React + Vite. Explore os arquivos para entender como o projeto está estruturado.
 

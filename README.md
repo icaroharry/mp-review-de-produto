@@ -12,7 +12,7 @@ Nós disponibilizamos um template inicial com a estrutura principal do site. Sua
 
 Nesse repositório você encontrará uma aplicação base feita em React + Vite. Explore os arquivos para entender como o projeto está estruturado.
 
-## Estrutura de pastas
+#### Estrutura de pastas
 
 A estrutura de pastas do projeto é organizada da seguinte forma:
 
